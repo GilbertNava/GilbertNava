@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @GilbertNava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Gilberto 💻 🐍 ℹ️
 
-<!---
-GilbertNava/GilbertNava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+## Find me around the web 🌎:
+- <a href="https://twitter.com/Gilberto_404"> Twitter </a> 🔗
+- <a href="https://www.linkedin.com/in/gilberto-nava-marcos/"> LinkedIn</a> 💼
+- <a href="https://www.facebook.com/sparkarhub/portfolios/fb/gilberto.navamarcos/"> Spark AR </a> 📁
