@@ -1,5 +1,5 @@
 # Hi, I'm Gilberto 💻 🐍 ℹ️
-![me](https://user-images.githubusercontent.com/83747323/117260677-efc24f80-ae14-11eb-864d-f39badca3835.gif)
+![me](https://raw.githubusercontent.com/GilbertoNavaMarcos/GilbertoNavaMarcos/main/GNM.gif)
 
 ## Find me around the web 🌎:
 - <a href="https://www.facebook.com/sparkarhub/portfolios/fb/gilberto.navamarcos/"> Spark AR </a> 📁
