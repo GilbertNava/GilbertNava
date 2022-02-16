@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **gilberto.nava.marcos@outlook**
 
+- ✨ Constantly learning and taking notes on ❤️ [Notion](https://delicious-bramble-e5f.notion.site/Gilberto-Nava-Marcos-7511ac5373564354845952d16ab023f5).   
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
