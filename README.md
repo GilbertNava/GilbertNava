@@ -3,14 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/Gilberto_NM" target="blank"><img src="https://img.shields.io/twitter/follow/gilberto_nm?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p>
 
-
-- 🔭 I’m currently working on [Courses and certifications](https://delicious-bramble-e5f.notion.site/Cursos-y-Certificaciones-2724ba2bb3b4401ea682e10ff2f1652d)
-
 - 🌱 I’m currently learning **dataviz with plotly**
 
 - 📫 How to reach me **gilberto.nava.marcos@outlook**
 
-- ✨ Constantly learning and taking notes on ❤️ [Notion](https://delicious-bramble-e5f.notion.site/Gilberto-Nava-Marcos-7511ac5373564354845952d16ab023f5).   
+- ✨ Constantly taking notes on ❤️ [Notion](https://delicious-bramble-e5f.notion.site/Gilberto-Nava-Marcos-7511ac5373564354845952d16ab023f5).   
 
 
 <h3 align="left">Connect with me:</h3>
