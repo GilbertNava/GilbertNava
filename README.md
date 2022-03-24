@@ -9,7 +9,7 @@
 <img align="right" height="50%" alt="Homer webpage" width="50%" src="https://github.com/GilbertoNavaMarcos/GilbertoNavaMarcos/blob/main/homer.gif?raw=true" />
   <h2> ⚡️ A Few Quick Facts </h2>
 <ul>
-  <li>📫 Email: <a href="mailto:gilberto.nava.marcos@outlook.com">gilberto.nava.marcos@outlook</a></li>
+  <li>📫 Email: <a href="mailto:gilberto.nava.marcos@gmail.com">gilberto.nava.marcos@gmail.com</a></li>
   <li>🧐 Learning about <strong>Data Science</strong>, <strong>ML</strong>, and a bit of <strong>Web Scrapping</strong>.</li>
   <li>✨ Constantly taking notes on <a href="https://delicious-bramble-e5f.notion.site/Gilberto-Nava-Marcos-7511ac5373564354845952d16ab023f5">Notion</a>. </li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/GilbertoNavaMarcos">Github</a>.</li>
