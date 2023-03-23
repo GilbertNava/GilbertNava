@@ -2,7 +2,7 @@
 <h3 align="center">data + tacos + software</h3>
 
 <!-- Twitter count-->
-<p align="center"> <a href="https://twitter.com/Gilberto_NM" target="blank"><img src="https://img.shields.io/twitter/follow/gilberto_nm?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p>
+<p align="center"> <a href="https://twitter.com/gilberto_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/gilberto_nm?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p>
 
 <div>
 <!-- Homer img-->
