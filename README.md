@@ -11,7 +11,7 @@
 <ul>
   <li>📫 Email: <a href="mailto:gilberto.nava.marcos@gmail.com">gilberto.nava.marcos@gmail.com</a></li>
   <li>🧐 Learning about <strong>Data Science</strong>, <strong>ML</strong>, and a bit of <strong>Web Scrapping</strong>.</li>
-  <li>✨ Constantly taking notes on <a href="https://delicious-bramble-e5f.notion.site/Gilberto-Nava-Marcos-7511ac5373564354845952d16ab023f5">Notion</a>. </li>
+  <li>✨ Constantly taking notes on <a href="https://gilbertnm.notion.site/Gilberto-Nava-Marcos-7511ac5373564354845952d16ab023f5">Notion</a>. </li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/GilbertoNavaMarcos">Github</a>.</li>
   <!--  <li>📙 Check out my <a href="https://bit.ly/GNMCV">resume</a>.</li> -->
   <!-- <li>🔭 some -->
